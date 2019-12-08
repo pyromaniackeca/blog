@@ -132,3 +132,15 @@ header nav a {
     margin: 2rem 1rem;
   }
 }
+
+.foot{
+  display:flex;
+  justify-content: space-between;
+}
+
+.foot>a{
+  margin-left:1050px;
+}
+
+.main_img{
+}
